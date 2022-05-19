@@ -1,7 +1,7 @@
 ---
 # Display name
-title: 吳恩達
-name_pronunciation: Wu En da
+title: 彭则栋
+name_pronunciation: Peng Ze Dong
 
 # Is this the primary user of the site?
 superuser: true
@@ -46,7 +46,7 @@ social:
     link: https://orcid.org/0000-0001-5547-3196
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/PZD-CHINA
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/uploads/resume.pdf`
   - icon: file-pdf
