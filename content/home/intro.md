@@ -29,5 +29,5 @@ design:
   css_class: d-flex fullscreen align-items-center
 ---
 
-👋 Hi! I'm **Zedong Peng**, an undergraduate student looking for jion in MediaBrain.
+👋 Hi! I'm **Zedong Peng**, an undergraduate student looking for jioning in MediaBrain.
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
