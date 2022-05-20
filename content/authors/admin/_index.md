@@ -42,7 +42,7 @@ social:
     icon_pack: fab
     link: https://www.zhihu.com/people/pzd-33-70
   - icon: music
-    icon_pack: fab
+    icon_pack: fas
     link: https://music.163.com/#/user?id=1290512624&app_version=8.7.46
   - icon: bilibili
     icon_pack: fab
