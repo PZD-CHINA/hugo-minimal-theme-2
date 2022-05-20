@@ -26,24 +26,24 @@ bio: ''
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
+#  - icon: envelope
+#    icon_pack: fas
+#    link: 'mailto:test@example.org'
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/wowchemy
+#  - icon: instagram
+#    icon_pack: fab
+#    link: https://www.instagram.com/spacex/
+#  - icon: weibo
+#    icon_pack: fab
+#    link: ttps://weibo.com/p/1008088f0ff813c3676d81a04a616ba555af0c/super_index
+  - icon: zhihu
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
+    link: https://www.zhihu.com/people/pzd-33-70
+  - icon: bilibili
     icon_pack: fab
-    link: https://www.instagram.com/spacex/
-  - icon: weibo
-    icon_pack: fab
-    link: ttps://weibo.com/p/1008088f0ff813c3676d81a04a616ba555af0c/super_index
-  - icon: tiktok
-    icon_pack: fab
-    link: https://www.tiktok.com/@spacex.to.mars
-  - icon: orcid
-    icon_pack: fab
-    link: https://orcid.org/0000-0001-5547-3196
+    link: https://space.bilibili.com/651554450
   - icon: github
     icon_pack: fab
     link: https://github.com/PZD-CHINA
